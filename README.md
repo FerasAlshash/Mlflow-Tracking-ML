@@ -3,21 +3,7 @@
 This project demonstrates how to use **MLflow** for experiment tracking and model management in a drug classification task. The goal is to classify the type of drug that should be prescribed based on patient data.
 
 ---
-
-## Table of Contents
-
-- [Overview](#overview)
-- [Features](#features)
-- [Prerequisites](#prerequisites)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Project Structure](#project-structure)
-- [Results](#results)
-- [Contributing](#contributing)
-- [License](#license)
-
----
-
+![Mlflow-Tracking-ML](https://github.com/FerasAlshash/Mlflow-Tracking-ML/blob/main/evRDaxjFqdnAShH645wZF.jpg)
 ## Overview
 
 In this project, we explore multiple machine learning models (Random Forest, Logistic Regression, Decision Tree, K-Nearest Neighbors, and Naive Bayes) to classify drugs based on patient attributes such as age, sex, blood pressure, cholesterol levels, and sodium-to-potassium ratio. 
