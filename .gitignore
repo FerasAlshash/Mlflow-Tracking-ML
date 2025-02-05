@@ -1,0 +1,27 @@
+#ignore virtual environment
+venv/
+.venv/
+#ignore compiled python files
+__pycache__/
+#ignoe mlflow experiment traching data
+mlruns/
+#ignore logs
+logs/
+#ignore data
+*.csv
+*.json
+#ignore model files
+*.pkl
+*.h5
+#ignore generates images
+*.png
+*.jpg
+*.jpeg
+#ignore jupyter notebook checkpoints
+.ipynb_checkpoints/
+#ignore environment file
+.env
+#ignore system files
+.Ds_Store
+Thumbs.db
+ 
